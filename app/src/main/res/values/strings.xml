@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PracticalW1</string>
+    <string name="TxtNumber">Roll Your Dice</string>
+    <string name="txtNumber">Hello, let\'s roll your dice!</string>
+    <string name="rollBtn">Roll Button</string>
 </resources>
